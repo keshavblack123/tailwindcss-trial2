@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <div className="flex-col items-center justify-center w-full h-screen Flex">
-      <h1 className='text-xs text-red-700'>Tailwind CSS Trial</h1>
+      <p className='text-3xl text-yellow-700'>Tailwind CSS Trial</p>
     </div>
   )
 }
